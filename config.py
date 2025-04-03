@@ -1,0 +1,2 @@
+BOT_TOKEN = '7711867527:AAFjQNCRjVCtsAoqNfFwcEL5nzZ9TCUxU_0'
+ADMINS = [868526576]  # admin user ID lar ro'yxati
